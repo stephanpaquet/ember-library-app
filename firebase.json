@@ -1,0 +1,8 @@
+{
+  "firebase": "stephan-library-app",
+  "public": "dist",
+  "rewrites": [{
+    "source": "**",
+    "destination": "/index.html"
+  }]
+}
